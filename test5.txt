@@ -2,3 +2,4 @@ new file added
 hi
 line 1 added
 Hello
+Line 2 added

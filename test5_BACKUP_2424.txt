@@ -1,0 +1,7 @@
+new file added
+hi
+<<<<<<< HEAD
+=======
+line 1 added
+>>>>>>> TestAjay
+Hello

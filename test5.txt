@@ -1,5 +1,7 @@
 new file added
 hi
 line 1 added
+updated here 1
 Hello
+updated here 2
 Line 2 added

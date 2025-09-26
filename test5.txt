@@ -1,7 +1,8 @@
 new file added
 hi
 line 1 added
-updated here 1
-Hello
 updated here 2
+Hello
+updated here 3
+
 Line 2 added

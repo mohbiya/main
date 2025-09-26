@@ -1,9 +1,9 @@
 new file added
-hello main
+hello bhai1
 hi
 hi again 1
 line 1 added
-updated main 2
+updated bhai2
 khelo bhai
 Hello
 hello again
